@@ -1,4 +1,4 @@
-# Machine-Learning-for-Credit-Risk-Prediction
+# Machine Learning for Credit Risk Prediction
 Skills developed are : 
 Data manipulation and preprocessing with Pandas
 Data visualization with Pyplot
